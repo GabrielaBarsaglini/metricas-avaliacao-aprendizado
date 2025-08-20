@@ -1,4 +1,4 @@
-# metricas-avaliacao-aprendizado
+# Cálculo de Métricas de Avaliação de Aprendizado
 
 Análise de Interrupções de Energia Elétrica - ANEEL
 Este projeto realiza a análise de dados de interrupções de energia elétrica fornecidos pela Agência Nacional de Energia Elétrica (ANEEL). O foco é simular um modelo de classificação para os tipos de interrupção e calcular métricas de avaliação de modelos de machine learning, como acurácia, sensibilidade, precisão e F1-score.
